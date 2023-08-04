@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Tiktok_RecordHappyLife
-实现极简版抖音
-=======
 # simple-demo
 
 ## 抖音项目服务端简单示例
@@ -28,4 +24,3 @@ test 目录下为不同场景的功能测试case，可用于验证功能实现�
 其中 common.go 中的 _serverAddr_ 为服务部署的地址，默认为本机地址，可以根据实际情况修改
 
 测试数据写在 demo_data.go 中，用于列表接口的 mock 测试
->>>>>>> 6ff3a98 (合并远程修改)
